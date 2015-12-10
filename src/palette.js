@@ -1,4 +1,4 @@
-import {color} from 'd3-color';
+import {color, hcl, lab} from 'd3-color';
 
 export default (baseColor, scheme) => {
   const baseHcl = new hcl(new lab(new color(baseColor)));
