@@ -1,7 +1,7 @@
 {
   "name": "react-color-utils",
-  "version": "1.0.0",
-  "description": "",
+  "version": "0.1.0",
+  "description": "color utils designed for recharts",
   "main": "./index.js",
   "dependencies": {
     "d3-color": "^0.3.1"
