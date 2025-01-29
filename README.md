@@ -1,3 +1,6 @@
+# THIS LIBRARY IS NOT MAINTAINED
+
+
 #rechart-color-utils
 Here are color utils designed for recharts and so on.
 
